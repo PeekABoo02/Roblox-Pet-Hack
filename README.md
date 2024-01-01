@@ -1,3 +1,6 @@
+UPDATE 4.0
+New design added by requests, if you have questions write me on discord.
+
 UPDATE 3.0 
 Found what Pet Simulator did, extension fixed. Enjoy!
 
