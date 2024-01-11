@@ -22,7 +22,7 @@ First step 1. Go into chrome, edge, firefox etc.
 Go to the extensions page, 
 turn on Developer Mode using the switch on the extensions page.
 
-Drag the PetAdder.crx from the zip you downloaded and drag it to the extensions page.
+Extract the crx file from zip, take the PetAdder.crx  and drag it to the extensions page.
 
 
 --
