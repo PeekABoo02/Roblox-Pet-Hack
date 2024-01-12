@@ -1,3 +1,5 @@
+If something is not working, feel free to reach out to me in discord. https://discordapp.com/users/peekaboo02
+
 UPDATE 4.0
 New design added by requests, if you have questions write me on discord.
 
@@ -27,4 +29,3 @@ Extract the crx file from zip, take the PetAdder.crx  and drag it to the extensi
 
 --
 
-If something is not working, feel free to reach out in discord. https://discordapp.com/users/peekaboo02
