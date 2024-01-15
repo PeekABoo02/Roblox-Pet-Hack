@@ -10,6 +10,8 @@ UPDATE 2.0
 Here's the updated version. This time you get Nice icons for the pets.
 thank you guys for the feedback's on discord!
 
+THIS IS FOR PET SIMULATOR!! 
+
 And now you can add only Huge pets, and those are limited, because i don't want roblox to find out and fix this glitch, 
 you can buy a "vip" version from me, and add titanics to. DM me on Discord.
 
