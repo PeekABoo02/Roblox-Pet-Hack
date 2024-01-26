@@ -1,3 +1,5 @@
+#Pet-Simulator-99
+
 If something is not working, feel free to reach out to me in discord. https://discordapp.com/users/peekaboo02
 
 Update huges are going to be in my extension, be ready! 
